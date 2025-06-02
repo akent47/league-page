@@ -11,9 +11,9 @@ export const homepageText = `
   <p>Each autumn, battle lines are drawn. Strategies are sharpened like katana. Rivalries blaze. By season’s end, one will rise to claim the annual crown—a fleeting title, yet respected. But those who think short-term are not worthy of legend. Because in the Bushido Bowl, the true path is long.</p>
   <p>Every five seasons, a reckoning arrives. From the ashes of year-over-year conflict, a single Shogun is crowned—calculated not by luck, but by mastery. The Bushi Meter, our sacred Power Index, tallies the deeds of each Daimyo across the years. It respects dominance. It rewards consistency. It recognizes honor.</p>
   <p>At the end of the fifth campaign, the War Chest is opened—a high-yield vault of tribute contributed annually by every clan. From it, three champions are rewarded:
-  <p>🥇 The Shogun — Supreme ruler of the Bushido Bowl
-🥈 The Daimyo — Second in strength, honorable and unyielding
-🥉 The Samurai — Steadfast and deadly, finishing third but feared by all</p>
+  <p>🥇 The Shogun — Supreme ruler of the Bushido Bowl</p>
+  <p>🥈 The Daimyo — Second in strength, honorable and unyielding</p>
+  <p>🥉 The Samurai — Steadfast and deadly, finishing third but feared by all</p>
   <p>Their prizes: not only glory, but gold—drawn from years of interest-bearing patience. This isn't about building a Dynasty. This is about building an Empire. This is Bushido.</p>
 `;
 

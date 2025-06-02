@@ -7,12 +7,23 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>A Dynasty League Forged in Honor, Strategy, and Legacy.</p>
+  <p>In a realm where football meets feudal tradition, twelve warriors gather not just to chase victory—but to carve their names into legend.</p>
+  <p>This is no ordinary league. This is the Bushido Bowl.</p>
+  <p>Each autumn, battle lines are drawn. Strategies are sharpened like katana. Rivalries blaze. By season’s end, one will rise to claim the annual crown—a fleeting title, yet respected. But those who think short-term are not worthy of legend. Because in the Bushido Bowl, the true path is long.</p>
+  <p>Every five seasons, a reckoning arrives. From the ashes of year-over-year conflict, a single Shogun is crowned—calculated not by luck, but by mastery. The Bushi Meter, our sacred Power Index, tallies the deeds of each Daimyo across the years. It respects dominance. It rewards consistency. It recognizes honor.</p>
+  <p>At the end of the fifth campaign, the War Chest is opened—a high-yield vault of tribute contributed annually by every clan. From it, three champions are rewarded:
+
+🥇 The Shogun — Supreme ruler of the Bushido Bowl
+🥈 The Daimyo — Second in strength, honorable and unyielding
+🥉 The Samurai — Steadfast and deadly, finishing third but feared by all
+
+Their prizes: not only glory, but gold—drawn from years of interest-bearing patience.
+
+This is not fantasy football. This is Dynasty as Art.
+
+This is Bushido.</p>
+  <p></p>
 `;
 
 /*   STEP 3   */

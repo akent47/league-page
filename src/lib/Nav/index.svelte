@@ -76,7 +76,7 @@
 </style>
 
 <nav>
-	<a href="/"><img id="logo" alt="league logo" src="/android-chrome-512x512.png" /></a>
+	<a href="/"><img id="logo" alt="league logo" src="/badge.png" /></a>
 
 	<div class="container">
 		<IconButton

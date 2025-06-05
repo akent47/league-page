@@ -121,7 +121,7 @@ body {
   position: relative;
   margin: 0;
   min-height: 100vh;
-  background-image: url('static/background.jpg'); // Adjust path if your image is in a subfolder
+  background-image: url('/static/background.jpg'); // Adjust path if your image is in a subfolder
   background-size: cover;                   // Makes the image cover the entire viewport
   background-repeat: no-repeat;             // Prevents tiling
   background-position: center center;       // Centers the image

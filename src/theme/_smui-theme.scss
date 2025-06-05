@@ -121,12 +121,12 @@ html,
 body {
   position: relative;
   margin: 0;
-  background-color: theme.$surface;
-  color: theme.$on-surface;
   min-height: 100vh;
-  background: #f4f4f4;
-  background: linear-gradient(to bottom right, #f4f4f4,#ebebeb );
-  background: -webkit-linear-gradient(to bottom right, #f4f4f4,#ebebeb );
+  background-image: url('static/background.jpg'); // Adjust path if your image is in a subfolder
+  background-size: cover;                   // Makes the image cover the entire viewport
+  background-repeat: no-repeat;             // Prevents tiling
+  background-position: center center;       // Centers the image
+  background-attachment: fixed;             // Optional: keeps the image fixed during scroll
 }
  
 //

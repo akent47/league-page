@@ -57,7 +57,7 @@
         width: 100%;
         height: 60px;
         top: 420px;
-        background-color: #734332;
+        background-color: #e7d1af;
     }
 
     :global(.body-text p) {

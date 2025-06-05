@@ -57,36 +57,7 @@
         width: 100%;
         height: 60px;
         top: 420px;
-        background: -webkit-linear-gradient(
-            var(--fadeOne),
-            var(--fadeTwo),
-            var(--fadeThree),
-            var(--fadeFour)
-        ); 
-        background-image: -moz-linear-gradient(
-            var(--fadeOne),
-            var(--fadeTwo),
-            var(--fadeThree),
-            var(--fadeFour)
-        );
-        background-image: -o-linear-gradient(
-            var(--fadeOne),
-            var(--fadeTwo),
-            var(--fadeThree),
-            var(--fadeFour)
-        );
-        background-image: linear-gradient(
-            var(--fadeOne),
-            var(--fadeTwo),
-            var(--fadeThree),
-            var(--fadeFour)
-        );
-        background-image: -ms-linear-gradient(
-            var(--fadeOne),
-            var(--fadeTwo),
-            var(--fadeThree),
-            var(--fadeFour)
-        );
+        background-color: #734332;
     }
 
     :global(.body-text p) {

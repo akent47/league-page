@@ -4,12 +4,12 @@
 
 // Svelte Colors!
 @use '@material/theme/index' as theme with (
-  $primary: #dc143c,
-  $secondary: #f8f5e6,
-  $surface: #fff,
-  $background: #fff,
+  $primary: #e7d1af,
+  $secondary: #e7d1af,
+  $surface: #e7d1af,
+  $background: #e7d1af,
   $error: color-palette.$red-900,
-  $on-surface: #000,
+  $on-surface: #e7d1af,
 );
 
 // Import all the styles for the classes.
